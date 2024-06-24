@@ -19,6 +19,7 @@ pip install nextcord
 
 ### Current problems with the bot
 • Since the bot is 'training' from your messages, it tends to output it's own mention multiple times.
+
 • If the messages you send are the same you will see similar outputs every time.
 
 
